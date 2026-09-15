@@ -1,0 +1,6 @@
+# Hosting account configuration and local diagnostics are not part of public exports.
+.openai export-ignore
+docs/validation.md export-ignore
+docs/performance-desktop.json export-ignore
+docs/materials-performance.json export-ignore
+docs/experience-audit.md export-ignore

@@ -1,0 +1,30 @@
+[
+  {
+    "file": "brush-1.wav",
+    "sourceStart": 1.8,
+    "duration": 4.4,
+    "peakDb": -9.9,
+    "rmsDb": -28.54
+  },
+  {
+    "file": "brush-2.wav",
+    "sourceStart": 7.1,
+    "duration": 4.4,
+    "peakDb": -9.9,
+    "rmsDb": -29.49
+  },
+  {
+    "file": "brush-3.wav",
+    "sourceStart": 13.2,
+    "duration": 4.4,
+    "peakDb": -9.9,
+    "rmsDb": -28.59
+  },
+  {
+    "file": "settle.wav",
+    "sourceStart": 2.6,
+    "duration": 0.8,
+    "peakDb": -11.85,
+    "rmsDb": -33.4
+  }
+]
