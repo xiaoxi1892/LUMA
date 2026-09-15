@@ -1,5 +1,7 @@
 # LUMA — Tactile Break Space
 
+**[在线体验 / Play LUMA →](https://xiaoxi1892.github.io/LUMA/)** · [GitHub](https://github.com/xiaoxi1892/LUMA)
+
 三种材质，一点留给自己的时间。梳理细沙，按下软膜，拨动磁珠。
 
 LUMA 是一个可用鼠标或触摸操作的网页减压小工具。没有计分、任务或登录，默认静音。
@@ -17,6 +19,8 @@ A quiet, interactive break space with persistent sand, soft pressure cells, and 
 Node.js ≥ 22.18；推荐 24。
 
 ```sh
+git clone https://github.com/xiaoxi1892/LUMA.git
+cd LUMA
 npm install
 npm run dev
 ```
